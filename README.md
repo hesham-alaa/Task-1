@@ -13,7 +13,7 @@ float()`
 - input()--> to input value to variable
 - string()--> to make variable of str 
 - interger()--> to make variable to int
--float()--> to make variable to float
+- float()--> to make variable to float
 
 3- What’s new for you ?
 
@@ -22,6 +22,6 @@ float()`
 
 4- Resources ? 
 
-https://www.tutorialspoint.com
-https://www.w3resource.com
-www.geeksforgeeks.
+(https://www.tutorialspoint.com)
+(https://www.w3resource.com)
+(www.geeksforgeeks)
